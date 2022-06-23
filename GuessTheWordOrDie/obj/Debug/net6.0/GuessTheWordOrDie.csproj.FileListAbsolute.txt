@@ -1,0 +1,15 @@
+/Users/jaysprout/Documents/GitHub/GuessTheWordOrDie/GuessTheWordOrDie/obj/Debug/net6.0/GuessTheWordOrDie.csproj.AssemblyReference.cache
+/Users/jaysprout/Documents/GitHub/GuessTheWordOrDie/GuessTheWordOrDie/obj/Debug/net6.0/GuessTheWordOrDie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaysprout/Documents/GitHub/GuessTheWordOrDie/GuessTheWordOrDie/obj/Debug/net6.0/GuessTheWordOrDie.AssemblyInfoInputs.cache
+/Users/jaysprout/Documents/GitHub/GuessTheWordOrDie/GuessTheWordOrDie/obj/Debug/net6.0/GuessTheWordOrDie.AssemblyInfo.cs
+/Users/jaysprout/Documents/GitHub/GuessTheWordOrDie/GuessTheWordOrDie/obj/Debug/net6.0/GuessTheWordOrDie.csproj.CoreCompileInputs.cache
+/Users/jaysprout/Documents/GitHub/GuessTheWordOrDie/GuessTheWordOrDie/bin/Debug/net6.0/GuessTheWordOrDie
+/Users/jaysprout/Documents/GitHub/GuessTheWordOrDie/GuessTheWordOrDie/bin/Debug/net6.0/GuessTheWordOrDie.deps.json
+/Users/jaysprout/Documents/GitHub/GuessTheWordOrDie/GuessTheWordOrDie/bin/Debug/net6.0/GuessTheWordOrDie.runtimeconfig.json
+/Users/jaysprout/Documents/GitHub/GuessTheWordOrDie/GuessTheWordOrDie/bin/Debug/net6.0/GuessTheWordOrDie.dll
+/Users/jaysprout/Documents/GitHub/GuessTheWordOrDie/GuessTheWordOrDie/bin/Debug/net6.0/GuessTheWordOrDie.pdb
+/Users/jaysprout/Documents/GitHub/GuessTheWordOrDie/GuessTheWordOrDie/obj/Debug/net6.0/GuessTheWordOrDie.dll
+/Users/jaysprout/Documents/GitHub/GuessTheWordOrDie/GuessTheWordOrDie/obj/Debug/net6.0/refint/GuessTheWordOrDie.dll
+/Users/jaysprout/Documents/GitHub/GuessTheWordOrDie/GuessTheWordOrDie/obj/Debug/net6.0/GuessTheWordOrDie.pdb
+/Users/jaysprout/Documents/GitHub/GuessTheWordOrDie/GuessTheWordOrDie/obj/Debug/net6.0/GuessTheWordOrDie.genruntimeconfig.cache
+/Users/jaysprout/Documents/GitHub/GuessTheWordOrDie/GuessTheWordOrDie/obj/Debug/net6.0/ref/GuessTheWordOrDie.dll
