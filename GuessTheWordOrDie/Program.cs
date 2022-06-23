@@ -80,6 +80,8 @@ else if (reply =="1")
                 }
                 
                 // whether guess was hot, warm, cool, or cold
+                // temperature of each guess is saved
+                // after first guess, user told whether they're getting cooler or warmer
 
                 if (guessTemp <= 10)
                 {
@@ -100,13 +102,12 @@ else if (reply =="1")
 
                 Console.WriteLine("You have " + guesses + " guesses left. Try again, stupid.");
                     
-                // temperature of each guess is saved
-                // after first guess, user told whether they're getting cooler or warmer
             }
         }
         else // If user loses, game ends
         {
             Console.WriteLine("You are as dumb as you look. You lose. Good day!");
+            break;
             // leaderboard displays
         }
 
