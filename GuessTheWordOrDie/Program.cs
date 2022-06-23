@@ -50,17 +50,58 @@ else if (reply =="1")
             {
                 Console.WriteLine("You won!");
                 // leaderboard displays
+                break;
             }
             else if (numGuess != randNum) // if user is incorrect game tells user
             {
                 guesses--;
-                Console.WriteLine("Nope. You have " + guesses + " guesses left. Try again, stupid.");
+
+                // take temperature
+                int guessTemp = 0;
+                if (numGuess > randNum)
+                {
+                    guessTemp = numGuess - randNum;
+                }
+                else 
+                {
+                    guessTemp = randNum - numGuess;
+                }
 
                 // game also tells user
-                    // whether their guess was too high or too low
-                    // whether guess was hot, warm, cool, or cold
-                    // temperature of each guess is saved
-                    // after first guess, user told whether they're getting cooler or warmer
+                // whether their guess was too high or too low
+
+                if (numGuess > randNum)
+                {
+                    Console.WriteLine("Nope. Your guess was too high ");
+                }
+                else if (numGuess < randNum)
+                {
+                    Console.WriteLine("Nope. Your guess was too low ");
+                }
+                
+                // whether guess was hot, warm, cool, or cold
+
+                if (guessTemp <= 10)
+                {
+                    Console.WriteLine("and your guess was really hot");
+                }
+                else if (guessTemp >10 && guessTemp <= 50)
+                {
+                    Console.WriteLine("and your guess was rather warm");
+                }
+                else if (guessTemp >50 && guessTemp <= 90)
+                {
+                    Console.WriteLine("and your guess was kinda cool");
+                }
+                else if (guessTemp >90)
+                {
+                    Console.WriteLine("and your guess was cold AF");
+                }  
+
+                Console.WriteLine("You have " + guesses + " guesses left. Try again, stupid.");
+                    
+                // temperature of each guess is saved
+                // after first guess, user told whether they're getting cooler or warmer
             }
         }
         else // If user loses, game ends
